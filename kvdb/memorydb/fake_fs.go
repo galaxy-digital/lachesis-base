@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/kvdb"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/kvdb"
 )
 
 type fakeFS struct {

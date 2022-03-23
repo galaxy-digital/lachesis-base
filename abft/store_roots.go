@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/galaxy-digital/relativity-base/abft/election"
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/abft/election"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
 )
 
 func rootRecordKey(r *election.RootAndSlot) []byte {

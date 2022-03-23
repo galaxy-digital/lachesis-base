@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"fmt"
 
-	"github.com/galaxy-digital/relativity-base/hash"
+	"github.com/galaxy-digital/lachesis-base/hash"
 )
 
 // DebugStateHash may be used in tests to match election state

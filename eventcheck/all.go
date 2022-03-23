@@ -1,10 +1,10 @@
 package eventcheck
 
 import (
-	"github.com/galaxy-digital/relativity-base/eventcheck/basiccheck"
-	"github.com/galaxy-digital/relativity-base/eventcheck/epochcheck"
-	"github.com/galaxy-digital/relativity-base/eventcheck/parentscheck"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/eventcheck/basiccheck"
+	"github.com/galaxy-digital/lachesis-base/eventcheck/epochcheck"
+	"github.com/galaxy-digital/lachesis-base/eventcheck/parentscheck"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
 )
 
 // Checkers is collection of all the checkers

@@ -1,6 +1,6 @@
 package queuedcheck
 
-import "github.com/galaxy-digital/relativity-base/inter/dag"
+import "github.com/galaxy-digital/lachesis-base/inter/dag"
 
 type EventTask interface {
 	Event() dag.Event

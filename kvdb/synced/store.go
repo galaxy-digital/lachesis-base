@@ -3,7 +3,7 @@ package synced
 import (
 	"sync"
 
-	"github.com/galaxy-digital/relativity-base/kvdb"
+	"github.com/galaxy-digital/lachesis-base/kvdb"
 )
 
 // store wrapper around any kvdb.Store.

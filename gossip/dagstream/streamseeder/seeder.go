@@ -9,10 +9,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/galaxy-digital/relativity-base/gossip/dagstream"
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/utils/workers"
+	"github.com/galaxy-digital/lachesis-base/gossip/dagstream"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/utils/workers"
 )
 
 var (

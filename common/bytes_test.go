@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/galaxy-digital/relativity-base/common/bigendian"
-	"github.com/galaxy-digital/relativity-base/common/littleendian"
+	"github.com/galaxy-digital/lachesis-base/common/bigendian"
+	"github.com/galaxy-digital/lachesis-base/common/littleendian"
 )
 
 func Test_IntToBytes(t *testing.T) {

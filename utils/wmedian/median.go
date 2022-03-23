@@ -1,7 +1,7 @@
 package wmedian
 
 import (
-	"github.com/galaxy-digital/relativity-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
 )
 
 type WeightedValue interface {

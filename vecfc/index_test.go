@@ -3,11 +3,11 @@ package vecfc
 import (
 	"testing"
 
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/dag/tdag"
-	"github.com/galaxy-digital/relativity-base/inter/pos"
-	"github.com/galaxy-digital/relativity-base/kvdb/memorydb"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/dag/tdag"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/kvdb/memorydb"
 )
 
 var (

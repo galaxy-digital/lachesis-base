@@ -10,10 +10,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/galaxy-digital/relativity-base/common/bigendian"
-	"github.com/galaxy-digital/relativity-base/kvdb"
-	"github.com/galaxy-digital/relativity-base/kvdb/leveldb"
-	"github.com/galaxy-digital/relativity-base/kvdb/table"
+	"github.com/galaxy-digital/lachesis-base/common/bigendian"
+	"github.com/galaxy-digital/lachesis-base/kvdb"
+	"github.com/galaxy-digital/lachesis-base/kvdb/leveldb"
+	"github.com/galaxy-digital/lachesis-base/kvdb/table"
 )
 
 func TestFlushableParallel(t *testing.T) {

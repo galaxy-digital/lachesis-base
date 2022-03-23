@@ -1,6 +1,6 @@
 package streamseeder
 
-import "github.com/galaxy-digital/relativity-base/utils/cachescale"
+import "github.com/galaxy-digital/lachesis-base/utils/cachescale"
 
 type Config struct {
 	SenderThreads           int

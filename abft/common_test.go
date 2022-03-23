@@ -1,13 +1,13 @@
 package abft
 
 import (
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/inter/pos"
-	"github.com/galaxy-digital/relativity-base/kvdb"
-	"github.com/galaxy-digital/relativity-base/kvdb/memorydb"
-	"github.com/galaxy-digital/relativity-base/lachesis"
-	"github.com/galaxy-digital/relativity-base/utils/adapters"
-	"github.com/galaxy-digital/relativity-base/vecfc"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/kvdb"
+	"github.com/galaxy-digital/lachesis-base/kvdb/memorydb"
+	"github.com/galaxy-digital/lachesis-base/lachesis"
+	"github.com/galaxy-digital/lachesis-base/utils/adapters"
+	"github.com/galaxy-digital/lachesis-base/vecfc"
 )
 
 type applyBlockFn func(block *lachesis.Block) *pos.Validators

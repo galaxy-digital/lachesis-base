@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"reflect"
 
-	"github.com/galaxy-digital/relativity-base/kvdb"
+	"github.com/galaxy-digital/lachesis-base/kvdb"
 )
 
 // MigrateTables sets target fields to database tables.

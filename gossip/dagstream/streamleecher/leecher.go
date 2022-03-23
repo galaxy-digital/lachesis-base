@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/galaxy-digital/relativity-base/gossip/dagstream"
-	"github.com/galaxy-digital/relativity-base/gossip/dagstream/streamleecher/peerleecher"
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/gossip/dagstream"
+	"github.com/galaxy-digital/lachesis-base/gossip/dagstream/streamleecher/peerleecher"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
 )
 
 // Leecher is responsible for requesting events based on lexicographic event streams

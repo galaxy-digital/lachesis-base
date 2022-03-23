@@ -1,9 +1,9 @@
 package abft
 
 import (
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
 )
 
 // onFrameDecided moves LastDecidedFrameN to frame.

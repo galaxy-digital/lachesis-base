@@ -1,4 +1,4 @@
-module github.com/galaxy-digital/relativity-base
+module github.com/galaxy-digital/lachesis-base
 
 go 1.14
 

@@ -1,12 +1,12 @@
 package abft
 
 import (
-	"github.com/galaxy-digital/relativity-base/abft/dagidx"
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/inter/pos"
-	"github.com/galaxy-digital/relativity-base/lachesis"
+	"github.com/galaxy-digital/lachesis-base/abft/dagidx"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/lachesis"
 )
 
 var _ lachesis.Consensus = (*Lachesis)(nil)

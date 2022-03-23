@@ -3,8 +3,8 @@ package abft
 import (
 	"fmt"
 
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
 )
 
 // Genesis stores genesis state

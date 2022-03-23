@@ -4,11 +4,11 @@ import (
 	"math"
 	"sync"
 
-	"github.com/galaxy-digital/relativity-base/eventcheck"
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/utils/wlru"
+	"github.com/galaxy-digital/lachesis-base/eventcheck"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/utils/wlru"
 )
 
 type (

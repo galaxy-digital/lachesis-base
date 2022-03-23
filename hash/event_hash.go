@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/galaxy-digital/relativity-base/common/bigendian"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/common/bigendian"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
 )
 
 type (

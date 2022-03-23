@@ -5,14 +5,14 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/galaxy-digital/relativity-base/eventcheck"
-	"github.com/galaxy-digital/relativity-base/eventcheck/queuedcheck"
-	"github.com/galaxy-digital/relativity-base/gossip/dagordering"
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/utils/datasemaphore"
-	"github.com/galaxy-digital/relativity-base/utils/workers"
+	"github.com/galaxy-digital/lachesis-base/eventcheck"
+	"github.com/galaxy-digital/lachesis-base/eventcheck/queuedcheck"
+	"github.com/galaxy-digital/lachesis-base/gossip/dagordering"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/utils/datasemaphore"
+	"github.com/galaxy-digital/lachesis-base/utils/workers"
 )
 
 var (

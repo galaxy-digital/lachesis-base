@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/galaxy-digital/relativity-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
 )
 
 var (

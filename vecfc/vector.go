@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/galaxy-digital/relativity-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
 )
 
 /*

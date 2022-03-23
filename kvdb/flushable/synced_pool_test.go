@@ -5,10 +5,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/galaxy-digital/relativity-base/common/bigendian"
-	"github.com/galaxy-digital/relativity-base/kvdb"
-	"github.com/galaxy-digital/relativity-base/kvdb/memorydb"
-	"github.com/galaxy-digital/relativity-base/kvdb/table"
+	"github.com/galaxy-digital/lachesis-base/common/bigendian"
+	"github.com/galaxy-digital/lachesis-base/kvdb"
+	"github.com/galaxy-digital/lachesis-base/kvdb/memorydb"
+	"github.com/galaxy-digital/lachesis-base/kvdb/table"
 )
 
 func TestSyncedPoolUnderlying(t *testing.T) {

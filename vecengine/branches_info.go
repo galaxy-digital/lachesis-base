@@ -1,8 +1,8 @@
 package vecengine
 
 import (
-	"github.com/galaxy-digital/relativity-base/inter/idx"
-	"github.com/galaxy-digital/relativity-base/inter/pos"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/inter/pos"
 )
 
 // BranchesInfo contains information about global branches of each validator

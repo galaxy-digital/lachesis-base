@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/galaxy-digital/relativity-base/hash"
-	"github.com/galaxy-digital/relativity-base/inter/dag"
-	"github.com/galaxy-digital/relativity-base/inter/dag/tdag"
-	"github.com/galaxy-digital/relativity-base/inter/idx"
+	"github.com/galaxy-digital/lachesis-base/hash"
+	"github.com/galaxy-digital/lachesis-base/inter/dag"
+	"github.com/galaxy-digital/lachesis-base/inter/dag/tdag"
+	"github.com/galaxy-digital/lachesis-base/inter/idx"
 )
 
 func TestEventsBuffer(t *testing.T) {
